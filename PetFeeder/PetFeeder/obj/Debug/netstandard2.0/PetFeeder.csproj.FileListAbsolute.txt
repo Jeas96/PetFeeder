@@ -1,0 +1,13 @@
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\bin\Debug\netstandard2.0\PetFeeder.deps.json
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\bin\Debug\netstandard2.0\PetFeeder.dll
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\bin\Debug\netstandard2.0\PetFeeder.pdb
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\obj\Debug\netstandard2.0\PetFeeder.csprojResolveAssemblyReference.cache
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\obj\Debug\netstandard2.0\PetFeeder.csproj.CoreCompileInputs.cache
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\obj\Debug\netstandard2.0\PetFeeder.AssemblyInfoInputs.cache
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\obj\Debug\netstandard2.0\PetFeeder.AssemblyInfo.cs
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\obj\Debug\netstandard2.0\PetFeeder.dll
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\obj\Debug\netstandard2.0\PetFeeder.pdb
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\obj\Debug\netstandard2.0\PetFeeder.Views.ConfigPage.xaml.g.cs
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\obj\Debug\netstandard2.0\PetFeeder.Views.FeedList.xaml.g.cs
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\obj\Debug\netstandard2.0\PetFeeder.Views.MainPage.xaml.g.cs
+C:\Users\Jesus\source\repos\PetFeeder\PetFeeder\PetFeeder\obj\Debug\netstandard2.0\PetFeeder.Views.TabView.xaml.g.cs
