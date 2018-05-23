@@ -10,7 +10,7 @@ namespace PetFeeder.ViewModel
     class MainPageViewModel : INotifyPropertyChanged
     {
         public event PropertyChangedEventHandler PropertyChanged;
-        private Uri url = new Uri("https://www.youtube.com/watch?v=BKLVpDTZOPQ");
+        private Uri url = new Uri("http://192.168.100.2:8081");
         private int cantidad = 10;
         int value=0;
         int panPos = 70, 
@@ -99,7 +99,7 @@ namespace PetFeeder.ViewModel
                 conexion.CreateTable<RegistroAlimentacion>();
                 conexion.Insert(registro);
             }
-            uri = new Uri(string.Format("192.168.100.8/servos.pry?value" + value + "P",string.Empty));
+            uri = new Uri(string.Format("192.168.100.2/servos.pry?value" + value + "P",string.Empty));
 
             response = await client.GetAsync(uri);
         }
